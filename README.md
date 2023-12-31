@@ -33,4 +33,10 @@ resize2fs /dev/mapper/pve-root
 
 add dns 8.8.8.8 to slove dns issue
 
+to fix template issues
+```
+
+```
+
+
 
