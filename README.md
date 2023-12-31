@@ -20,5 +20,13 @@ portrainer
 ```
 docker run -d -p 9000:9000 --name=portainer --restart=always -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data portainer/portainer-ce
 ```
-
-
+remove unused disk space
+```
+lvremove /dev/pve/data
+```
+```
+lvresize -l +100%FREE /dev/pve/root
+```
+```
+resize2fs /dev/mapper/pve-root
+``
