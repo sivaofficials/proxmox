@@ -32,6 +32,13 @@ resize2fs /dev/mapper/pve-root
 
 add dns 8.8.8.8 to slove dns issue
 
+ntfy
+```
+sudo docker run -p 80:80 -td binwiederhier/ntfy serve
+```
+
+
+
 to fix template issues
 ```
 
