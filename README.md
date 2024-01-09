@@ -24,6 +24,7 @@ remove unused disk space
 ```
 lvremove /dev/pve/data
 ```
+```
 lvresize -l +100%FREE /dev/pve/root
 ```
 ```
