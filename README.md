@@ -42,7 +42,7 @@ sudo docker run -p 80:80 -td binwiederhier/ntfy serve
 
 to fix template issues
 ```
-
+tykey core 
 ```
 
 
