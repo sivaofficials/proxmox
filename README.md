@@ -12,6 +12,9 @@ https://github.com/novaspirit/pi-hosted
 ```
 https://raw.githubusercontent.com/pi-hosted/pi-hosted/master/template/portainer-v2-amd64.json
 ```
+```
+https://raw.githubusercontent.com/Lissy93/portainer-templates/main/templates.json
+```
 docker:
 ```
 curl -sSL https://get.docker.com/ | sh
