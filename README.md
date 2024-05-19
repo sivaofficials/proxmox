@@ -54,5 +54,5 @@ docker run -d --network=host -v open-webui:/app/backend/data -e OLLAMA_BASE_URL=
 
 linux all stroage reated stuff
 
-
+https://www.apalrd.net/posts/2023/ultimate_nas/
 
