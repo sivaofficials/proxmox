@@ -49,4 +49,7 @@ tykey core
 ```
 
 
+linux all stroage reated stuff
+
+
 
